@@ -1,0 +1,32 @@
+{
+  "Tesouro Selic 2031": {
+    "symbol": "tesouro-selic-01032031",
+    "buyRate": 13.5451,
+    "sellRate": 13.4951,
+    "maturity": "01/03/2031",
+    "price": 956.65,
+    "rateInfo": {
+      "description": "Taxa de compra"
+    }
+  },
+  "Tesouro Prefixado c/ Juros Sem. 2037": {
+    "symbol": "tesouro-prefixado-com-juros-semestrais-01012037",
+    "buyRate": 12.7851,
+    "sellRate": 12.7351,
+    "maturity": "01/01/2037",
+    "price": 994.1,
+    "rateInfo": {
+      "description": "Taxa de compra"
+    }
+  },
+  "Tesouro IPCA+ c/ Juros Sem. 2060": {
+    "symbol": "tesouro-ipca-com-juros-semestrais-15082060",
+    "buyRate": 6.1973,
+    "sellRate": 6.1473,
+    "maturity": "15/08/2060",
+    "price": 957.46,
+    "rateInfo": {
+      "description": "Taxa de compra"
+    }
+  }
+}
